@@ -3,12 +3,12 @@ Full code of VS2013 / VS2019 Discord Rich Presence for Metin2
 [![Discord](https://discordapp.com/api/guilds/370909694056726528/widget.png?style=shield)](https://discord.gg/jqbq85J)  
   
 ## SCREENS
-![Preview_1](https://i.imgur.com/sKSpzg4.png)
-![Preview_2](https://i.imgur.com/zO3ul2z.png)
-![Preview_3](https://i.imgur.com/2rgGCx9.png)
-![Preview_4](https://i.imgur.com/Rb55nz9.png)
-![Preview_5](https://i.imgur.com/m9vtd1l.png)
-
+![Preview_1](https://i.imgur.com/sKSpzg4.png)  
+![Preview_2](https://i.imgur.com/zO3ul2z.png)  
+![Preview_3](https://i.imgur.com/2rgGCx9.png)  
+![Preview_4](https://i.imgur.com/Rb55nz9.png)  
+![Preview_5](https://i.imgur.com/m9vtd1l.png)  
+  
 ## ENGLISH
 The full Discord RPC code for Metin2 Binary, contains the necessary libs to add for versions VS2013 and VS2019, all files and sample code containing basic information.  
   
