@@ -13,15 +13,15 @@ Full code of VS2013 / VS2019 Discord Rich Presence for Metin2
 The full Discord RPC code for Metin2 Binary, contains the necessary libs to add for versions VS2013 and VS2019, all files and sample code containing basic information.  
   
 Coded:  
-  - Client usage phases, i.e.  
-    - Login stage,  
-    - Character selection stage,  
-    - Loading stage,  
-    - Playing stage.  
-  - Character information, i.e.  
-    - Nick of the currently used character,  
-    - Class and gender of the currently used character (smallimage + smallimagetext),  
-    - Map on which character is located (with the possibility of setting your own location names).  
+ - Client usage phases, i.e.  
+   - Login stage,  
+   - Character selection stage,  
+   - Loading stage,  
+   - Playing stage.  
+ - Character information, i.e.  
+   - Nick of the currently used character,  
+   - Class and gender of the currently used character (smallimage + smallimagetext),  
+   - Map on which character is located (with the possibility of setting your own location names).  
   
 The system is trivial in editing and implementation, it shouldn't cause anyone any problems, and most things are described in detail.  
   
