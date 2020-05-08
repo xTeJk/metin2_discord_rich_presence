@@ -3,12 +3,12 @@ Full code of VS2013 / VS2019 Discord Rich Presence for Metin2
 [![Discord](https://discordapp.com/api/guilds/370909694056726528/widget.png?style=shield)](https://discord.gg/jqbq85J)  
   
 ## SCREENS
-![Preview_1](https://i.imgur.com/sKSpzg4.png)  
-![Preview_2](https://i.imgur.com/zO3ul2z.png)  
-![Preview_3](https://i.imgur.com/2rgGCx9.png)  
-![Preview_4](https://i.imgur.com/Rb55nz9.png)  
-![Preview_5](https://i.imgur.com/m9vtd1l.png)  
-  
+![Preview_1](https://i.imgur.com/sKSpzg4.png)
+![Preview_2](https://i.imgur.com/zO3ul2z.png)
+![Preview_3](https://i.imgur.com/2rgGCx9.png)
+![Preview_4](https://i.imgur.com/Rb55nz9.png)
+![Preview_5](https://i.imgur.com/m9vtd1l.png)
+
 ## ENGLISH
 The full Discord RPC code for Metin2 Binary, contains the necessary libs to add for versions VS2013 and VS2019, all files and sample code containing basic information.  
   
@@ -27,17 +27,17 @@ The system is trivial in editing and implementation, it shouldn't cause anyone a
   
   
 ## POLISH
-Pe³ny kod Discord RPC dla Metin2 Binary, zawiera niezbêdne liby do dodania dla wersji VS2013 oraz VS2019, wszystkie pliki i przyk³adowy kod zawieraj¹cy podstawowe informacje.  
+Pełny kod Discord RPC dla Metin2 Binary, zawiera niezbędne liby do dodania dla wersji VS2013 oraz VS2019, wszystkie pliki i przykładowy kod zawierający podstawowe informacje.  
   
 Zakodowane:  
- - Fazy u¿ywania clienta, tj.:  
+ - Fazy używania clienta, tj.:  
    - Etap logowania,  
    - Etap wybierania postaci,  
-   - Etap ³adowania do gry,  
+   - Etap ładowania do gry,  
    - Etap grania.  
- - Informacje dotycz¹ce postaci, tj.:  
-   - Nick aktualnie u¿ywanej postaci,  
-   - Klasa oraz p³eæ aktualnie u¿ywanej postaci w formie smallimage + smallimagetext,  
-   - Mapa na której siê znajduje (wraz z mo¿liwoœci¹ ustawiania w³asnych nazw lokacji).  
+ - Informacje dotyczące postaci, tj.:  
+   - Nick aktualnie używanej postaci,  
+   - Klasa oraz płeć aktualnie używanej postaci w formie smallimage + smallimagetext,  
+   - Mapa na której się znajduje (wraz z możliwością ustawiania własnych nazw lokacji).  
   
-System jest banalny w edycji i implementacji, nie powinien przyspo¿yæ nikomu ¿adnych problemów, a wiêkszoœæ rzeczy jest szczegó³owo opisana.  
+System jest banalny w edycji i implementacji, nie powinien przyspożyć nikomu żadnych problemów, a większość rzeczy jest szczegółowo opisana.  
