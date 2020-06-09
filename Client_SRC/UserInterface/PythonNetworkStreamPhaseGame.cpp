@@ -54,6 +54,23 @@ void CPythonNetworkStream::Discord_Update(const bool ingame, const bool select, 
 			char buffer[sizeof(unsigned long) * 8 + 1];
 			const char * race_name = _ultoa(race, buffer, 2);
 			// and then check if GetRace DWORD is equal to buffer to get player's character race
+			//
+			// how to get race ID in different way:
+			//	CInstanceBase* pInstance = CPythonCharacterManager::Instance().GetMainInstancePtr();
+			//	int race = pInstance->GetRace();
+			//
+			//	if (race == 0) {
+			//		discordPresence.smallImageKey = "warriorm";
+			//		discordPresence.smallImageText = "Explores the world of Calios as male Warrior!";
+			//	} else if (race == 4) {
+			//		discordPresence.smallImageKey = "warriorf";
+			//		discordPresence.smallImageText = "Explores the world of Calios as female Warrior!";
+			//	}
+			//
+			// ... etc...
+			// 0 - warrior_m // 2 - sura_m // 5 - ninja_m // 7 - shaman_m // WOLFMAN: 8
+			// 1 - ninja_w // 3 - shaman_w // 4 - warrior_w // 6 - sura_w
+			//
 			if (strcmp("0", buffer) == 0) {
 				discordPresence.smallImageKey = "warriorm";
 				discordPresence.smallImageText = "Explores the world of Calios as male Warrior!";
