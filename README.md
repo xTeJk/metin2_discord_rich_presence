@@ -1,6 +1,6 @@
 # Metin2 - Discord Rich Presence  
 Full code of VS2013 / VS2019 Discord Rich Presence for Metin2  
-[![Discord](https://discordapp.com/api/guilds/370909694056726528/widget.png?style=shield)](https://discord.gg/jqbq85J)  
+[![Discord](https://discordapp.com/api/guilds/748288505507217428/widget.png?style=shield)](https://discord.gg/AEfuvwT) 
   
 ## SCREENS
 ![Preview_1](https://i.imgur.com/sKSpzg4.png)  
